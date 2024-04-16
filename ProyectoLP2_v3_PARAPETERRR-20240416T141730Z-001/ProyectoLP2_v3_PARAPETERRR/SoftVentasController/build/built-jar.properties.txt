@@ -1,0 +1,12 @@
+#Tue, 16 Apr 2024 00:47:44 -0500
+
+
+/home/marcelo/Documentos/Universidad/Programacion_3/Repositorios/GRUPAZO/SoftVentasController=
+
+/home/marcelo/Documentos/Universidad/Programacion_3/Repositorios/GRUPAZO/SoftGestReservaModel=
+
+/home/marcelo/Documentos/Universidad/Programacion_3/Repositorios/GRUPAZO/SoftRRHHModel=
+
+/home/marcelo/Documentos/Universidad/Programacion_3/Repositorios/GRUPAZO/SoftManager=
+
+/home/marcelo/Documentos/Universidad/Programacion_3/Repositorios/GRUPAZO/SoftVentasModel=
